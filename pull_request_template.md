@@ -18,6 +18,7 @@
 - [ ] 🔥 Performance Improvements
 - [ ] ✅ Test
 - [ ] 🤖 Build
+- [ ] 👨🏻‍💻 Dependency
 - [ ] 🔁 CI
 - [ ] 📦 Chore (Release)
 - [ ] ⏩ Revert
@@ -39,8 +40,8 @@
 
 ## Breaking Changes?
 
-- [ ]  👍 Yes
-- [ ]  🙅 No, Cause I don't break things  
+- [ ] 👍 yes
+- [ ] 🙋 no, because I don't break things
 
 ## Added tests?
   
