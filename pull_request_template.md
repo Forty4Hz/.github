@@ -10,18 +10,18 @@
 
 ## What type of PR is this? (check all applicable)
 
-- [ ] 🍕 Feature
-- [ ] 🐛 Bug Fix
-- [ ] 📝 Documentation Update
-- [ ] 🎨 Style
-- [ ] 🧑‍💻 Code Refactor
-- [ ] 🔥 Performance Improvements
-- [ ] ✅ Test
-- [ ] 🤖 Build
-- [ ] 👨🏻‍💻 Dependency
-- [ ] 🔁 CI
-- [ ] 📦 Chore (Release)
-- [ ] ⏩ Revert
+* [ ] 🍕 Feature
+* [ ] 🐛 Bug Fix
+* [ ] 📝 Documentation Update
+* [ ] 🎨 Style
+* [ ] 🧑‍💻 Code Refactor
+* [ ] 🔥 Performance Improvements
+* [ ] ✅ Test
+* [ ] 🤖 Build
+* [ ] 👨🏻‍💻 Dependency
+* [ ] 🔁 CI
+* [ ] 📦 Chore (Release)
+* [ ] ⏩ Revert
   
 ## Description
 
@@ -40,19 +40,19 @@
 
 ## Breaking Changes?
 
-- [ ] 👍 yes
-- [ ] 🙋 no, because I don't break things
+* [ ] 👍 yes
+* [ ] 🙋 no, because I don't break things
 
 ## Added tests?
   
-- [ ] 👍 yes
-- [ ] 🙅 no, because they aren't needed
-- [ ] 🙋 no, because I need help
+* [ ] 👍 yes
+* [ ] 🙅 no, because they aren't needed
+* [ ] 🙋 no, because I need help
 
 ## Added to documentation?
   
-- [ ] 📜 README.md
-- [ ] 📕 storybook
+* [ ] 📜 README.md
+* [ ] 📕 storybook
 
 ## [optional] Are there any post-deployment tasks we need to perform?
 
